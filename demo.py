@@ -5,10 +5,26 @@ from dataclasses import dataclass
 
 
 class node : 
-     def __init__(self, data, address) -> None :
+     def __init__(self, data, address) -> None:
           self.data = data
           self.next = address
 
+class linkedlist : 
+     def __init__(self) -> None:
+          
+          pass
+
+     def addNode() -> None:
 
 
+          pass
+
+     def showData() -> list:
+          lst = []
+          
+
+
+
+          return lst
+          pass
 
