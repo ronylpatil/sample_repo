@@ -19,12 +19,7 @@ class linkedlist :
 
           pass
 
-     def showData() -> list:
-          lst = []
-          
+     def showll() -> list:
 
-
-
-          return lst
           pass
 
