@@ -2,15 +2,16 @@
 
 # creating linked list
 from dataclasses import dataclass
+from tkinter.messagebox import NO
 
 
 class node : 
-     def __init__(self, data, address) -> None:
+     def __init__(self, data) -> None :
           self.data = data
-          self.next = address
+          self.next = None
 
 class linkedlist : 
-     def __init__(self) -> None:
+     def __init__(self) -> None :
           self.head = None
 
      def addNode() -> None:
