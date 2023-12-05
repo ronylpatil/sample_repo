@@ -22,3 +22,8 @@ class linkedlist :
 
           pass
 
+     def deleteNode(self, data) -> None:
+
+
+          pass 
+
