@@ -19,10 +19,6 @@ class linkedlist :
           # it will return list of all ll elements.
           pass
 
-<<<<<<< HEAD
-     def deleteNode(self, data) -> None:
-          # enter data we will drop that node
-=======
      def showll(self) -> list :
           lst = []
           if self.head == None : 
@@ -50,7 +46,6 @@ class linkedlist :
                          else :
                               pass
                return
->>>>>>> addNode1
 
           pass 
 
