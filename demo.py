@@ -17,6 +17,7 @@ class linkedlist :
      def addNode() -> None:
           # adding comment
           # making changes in sample branch
+          # making changes in master branch
 
           pass
 
