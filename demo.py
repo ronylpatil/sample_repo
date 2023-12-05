@@ -34,6 +34,23 @@ class linkedlist :
                     lst.append(temp.data)
                     temp = temp.next
                return lst
+     
+     def deleteNode(self, data) -> str : 
+          if self.head == None : 
+               return 'LL is empty!'
+          else : 
+               temp = self.head
+               # head ka element hi victim ho
+               if temp.data == data : 
+                    self.head = temp.next
+               else : 
+                    while temp.next : 
+                         if temp.data == data : 
+                              # update it
+                              pass
+                         else :
+                              pass
+               return
 
 obj = linkedlist()
 obj.addNode(1)
