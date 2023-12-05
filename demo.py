@@ -11,8 +11,7 @@ class node :
 
 class linkedlist : 
      def __init__(self) -> None:
-          
-          pass
+          self.head = None
 
      def addNode() -> None:
 
