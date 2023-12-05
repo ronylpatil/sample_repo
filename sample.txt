@@ -1,2 +1,2 @@
-hello from master
+hello2
 hello world.
