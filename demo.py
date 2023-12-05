@@ -1,10 +1,3 @@
-
-
-# creating linked list
-from dataclasses import dataclass
-from tkinter.messagebox import NO
-
-
 class node : 
      def __init__(self, data) -> None :
           self.data = data
