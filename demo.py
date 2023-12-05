@@ -19,11 +19,11 @@ class linkedlist :
           pass
 
      def showll() -> list:
-
+          # it will return list of all ll elements.
           pass
 
      def deleteNode(self, data) -> None:
-
+          # enter data we will drop that node
 
           pass 
 
