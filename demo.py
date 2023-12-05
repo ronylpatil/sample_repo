@@ -17,8 +17,12 @@ class linkedlist :
      def addNode() -> None:
           # adding comment
           # making changes in sample branch
+<<<<<<< HEAD
           # making changes in master branch
 
+=======
+          # making changes in sample2 branch
+>>>>>>> sample2
           pass
 
      def showll() -> list:
